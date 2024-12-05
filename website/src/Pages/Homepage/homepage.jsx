@@ -1,6 +1,14 @@
+import Navbar from "../../Components/Navbar/navbar"
+import "../Homepage/homepage.css"
 const Homepage = () => {
-    return(
-        <div>adsa</div>
+
+    return (
+        <>
+            <Navbar/>
+            <div className="homepageContainer">
+                <div>aasdsd</div>
+            </div>
+        </>
     )
 }
 
