@@ -3,4 +3,19 @@
     height: 85vh;
     display: flex;
     background-color: #C5E7E3 ;
+    justify-content: center;
+    box-sizing: border-box;  
+    padding-top: 6rem;
+}
+.middle-text{
+    font-family: cursive;
+    font-weight: 700;
+    font-size: 1.5rem;
+    width: 30%;
+    text-align: center;
+}
+.title-text{
+    font-family: cursive;
+    font-weight: 700;
+    font-size: 2.7rem;
 }

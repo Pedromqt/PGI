@@ -4,7 +4,9 @@ const Contacts = () => {
     return(
         <>
         <Navbar/>
-            <div>asd</div>
+            <div className="contactsContainer">
+                <div className="title-text">Podem contactar-nos através de:</div>
+            </div>
         </>
     )
 }

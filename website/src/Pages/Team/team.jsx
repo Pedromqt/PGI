@@ -10,7 +10,7 @@ const Team = () =>{
                 <div className="text">João Vaz</div>
                 <div className="text">Pedro Trindade</div>
                 <div className="text">João Dias</div>
-                <div className="text">Leonardo Fisga</div>
+                <div className="text">Leonardo Silva</div>
             </div>
         </>
     )
